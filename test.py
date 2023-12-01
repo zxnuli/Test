@@ -1,2 +1,1 @@
-print("demo1")
-print('demo2')
+print("test 09:32")
